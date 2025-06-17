@@ -49,7 +49,7 @@ pip install simpy
 
 ## 👤 Author
 
-Harsh Arora
+Developed by Harsh Arora.
 
 ## 📝 License
 
