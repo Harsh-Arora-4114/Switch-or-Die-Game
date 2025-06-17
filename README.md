@@ -1,5 +1,4 @@
 # Switch-or-Die-Game
-
 ---
 
 
