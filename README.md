@@ -45,7 +45,6 @@ pip install simpy
 * Random module
 * Time module
 
-## 📄 File Structure
 
 
 ## 👤 Author
