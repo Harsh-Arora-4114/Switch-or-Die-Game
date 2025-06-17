@@ -1,60 +1,62 @@
 # Switch-or-Die-Game
-This project simulates a classic logic puzzle where you need to determine which of three switches controls a light bulb located in another room. The simulation is built using Python and SimPy, a process-based discrete-event simulation framework.
+Based on the code inside your notebook, here's a sample `README.md` file for your project:
 
-🧠 Game Description
-You are presented with three switches: A, B, and C. Only one of them controls a bulb in a separate room. You can turn ON and OFF these switches and observe the bulb to figure out which one is correct.
+---
 
-🕹 Gameplay Mechanics
-Only one switch is active at a time.
+# 🔌 Single Bulb Switch Game (SimPy Simulation)
 
-The bulb glows when the correct switch is ON.
+This project simulates a classic logic puzzle where you need to determine which of three switches controls a light bulb located in another room. The simulation is built using Python and [SimPy](https://simpy.readthedocs.io/), a process-based discrete-event simulation framework.
 
-You have 60 seconds to determine the correct switch.
+## 🧠 Game Description
 
-The system tracks how long each switch is ON.
+You are presented with **three switches**: `A`, `B`, and `C`. Only one of them controls a bulb in a separate room. You can **turn ON and OFF** these switches and **observe the bulb** to figure out which one is correct.
 
-Once you are ready, you can make a final guess.
+### 🕹 Gameplay Mechanics
 
-📦 Requirements
-Python 3.6+
+* Only one switch is active at a time.
+* The bulb glows when the correct switch is ON.
+* You have **60 seconds** to determine the correct switch.
+* The system tracks how long each switch is ON.
+* Once you are ready, you can make a **final guess**.
 
-simpy library
+## 📦 Requirements
+
+* Python 3.6+
+* `simpy` library
 
 Install dependencies using:
 
-bash
-Copy
-Edit
-
+```bash
 pip install simpy
-🚀 How to Run
+```
 
-Open the Jupyter Notebook:
+## 🚀 How to Run
 
-Code.ipynb
+1. Open the Jupyter Notebook:
+   `Code.ipynb`
 
-Run the cells sequentially to:
+2. Run the cells sequentially to:
 
-Initialize the simulation
+   * Initialize the simulation
+   * Play the game (through input prompts)
+   * Make your final guess
 
-Play the game (through input prompts)
+3. Observe the feedback after your final guess.
 
-Make your final guess
+## 🛠 Technologies Used
 
-Observe the feedback after your final guess.
+* Python
+* SimPy (Discrete-event simulation)
+* Random module
+* Time module
 
-🛠 Technologies Used
-Python
+## 📄 File Structure
 
-SimPy (Discrete-event simulation)
 
-Random module
+## 👤 Author
 
-Time module
-
-👤 Author
 Harsh Arora
 
-📝 License
-This project is licensed under the MIT License — feel free to use and modify it for educational purposes.
+## 📝 License
 
+This project is licensed under the MIT License — feel free to use and modify it for educational purposes.
