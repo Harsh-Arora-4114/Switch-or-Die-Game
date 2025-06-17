@@ -25,9 +25,12 @@ Install dependencies using:
 bash
 Copy
 Edit
+
 pip install simpy
 🚀 How to Run
+
 Open the Jupyter Notebook:
+
 Code.ipynb
 
 Run the cells sequentially to:
