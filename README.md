@@ -1,6 +1,4 @@
 # Switch-or-Die-Game
----
-
 
 This project simulates a classic logic puzzle where you need to determine which of three switches controls a light bulb located in another room. The simulation is built using Python and [SimPy](https://simpy.readthedocs.io/), a process-based discrete-event simulation framework.
 
