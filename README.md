@@ -2,11 +2,11 @@
 
 This project simulates a classic logic puzzle where you need to determine which of three switches controls a light bulb located in another room. The simulation is built using Python and [SimPy](https://simpy.readthedocs.io/), a process-based discrete-event simulation framework.
 
-## 🧠 Game Description
+## Game Description
 
 You are presented with **three switches**: `A`, `B`, and `C`. Only one of them controls a bulb in a separate room. You can **turn ON and OFF** these switches and **observe the bulb** to figure out which one is correct.
 
-### 🕹 Gameplay Mechanics
+### Gameplay Mechanics
 
 * Only one switch is active at a time.
 * The bulb glows when the correct switch is ON.
@@ -14,7 +14,7 @@ You are presented with **three switches**: `A`, `B`, and `C`. Only one of them c
 * The system tracks how long each switch is ON.
 * Once you are ready, you can make a **final guess**.
 
-## 📦 Requirements
+## Requirements
 
 * Python 3.6+
 * `simpy` library
@@ -25,7 +25,7 @@ Install dependencies using:
 pip install simpy
 ```
 
-## 🚀 How to Run
+## How to Run
 
 1. Open the Jupyter Notebook:
    `Code.ipynb`
@@ -38,7 +38,7 @@ pip install simpy
 
 3. Observe the feedback after your final guess.
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * Python
 * SimPy (Discrete-event simulation)
@@ -47,10 +47,10 @@ pip install simpy
 
 
 
-## 👤 Author
+## Author
 
 Developed by Harsh Arora.
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License — feel free to use and modify it for educational purposes.
