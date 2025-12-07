@@ -45,12 +45,10 @@ pip install simpy
 * Random module
 * Time module
 
+## License
 
+This project is licensed under the MIT License.
 
 ## Author
 
 Developed by Harsh Arora.
-
-## License
-
-This project is licensed under the MIT License — feel free to use and modify it for educational purposes.
